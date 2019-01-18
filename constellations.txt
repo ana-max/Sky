@@ -1,0 +1,59 @@
+﻿Andromeda	  	    and
+Antlia		  	    ant
+Aquila		  	    aql
+Aquarius	  	    aqr
+Aries		  	    ari
+Auriga		  	    aur
+Bootes		  	    boo
+Camelopardalis	  	cam
+Capricornus	  	    cap
+Cassiopeia 	  	    cas
+Cepheus		  	    cep
+Cetus		  	    cet
+Canis Major       	cma
+Canis Minor	  	    cmi
+Cancer		  	    cnc
+Coma Berenices	  	com
+Corona Borealis	  	crb
+Crater		  	    crt
+Corvus		  	    crv
+Canes Venatici	  	cvn	
+Cygnus		  	    cyg
+Delphinus	  	    del
+Draco		  	    dra
+Equuleus	  	    equ
+Eridanus	  	    eri
+Fornax		  	    for
+Geminorum 	  	    gem
+Hercules	  	    her
+Hydra		  	    hya
+Lacerta		  	    lac
+Leo		  	        leo
+Lepus		  	    lep
+Libra		  	    lib
+Leo Minor	  	    lmi
+Lynx		  	    lyn
+Lyra		  	    lyr
+Monoceros	  	    mon
+Ophiuchus	  	    oph
+Orion		  	    ori
+Pegasus		  	    peg
+Perseus		  	    per
+Piscis Austrinus  	psa	
+Pisces		  	    psc
+Puppis		  	    pup
+Pyxis		  	    pyx
+Sculptor	  	    scl
+Scorpius	  	    sco
+Scutum	    	  	sct
+Serpens Cauda     	se1
+Serpens	     	    ser
+Sextans	         	sex
+Sagitta	      	    sge
+Sagittarius	  	    sgr
+Taurus		  	    tau
+Triangulum	  	    tri
+Ursa Major 	  	    uma
+Ursa Minor	  	    umi
+Virgo		  	    vir
+Vulpecula	  	    vul
